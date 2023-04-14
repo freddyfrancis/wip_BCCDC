@@ -1,2 +1,2 @@
-# Test page for WIP meeting
+# For WIP meeting
 - for accesing .ipynb files
